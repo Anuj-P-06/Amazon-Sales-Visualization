@@ -3,6 +3,7 @@
 - [Project Overview](#project-overview)
 - [Tools Used](#tools-used)
 - [Link to Tableau DashBoard](#Link-to-tableau-dashBoard)
+- [DashBoard](#dashboard)
 - [Tasked Performed](#tasked-performed)
 - [Summary of Findings](#summary-of-findings)
 - [Data Sources](#data-sources)
@@ -16,6 +17,10 @@ This Tableau project aims to provide a analysis of order data across various dim
 
 ### Link to Tableau DashBoard
 - [Tableau Amazon sales project](https://public.tableau.com/app/profile/anuj.prasad7773/vizzes)
+
+### DashBoard
+![Screenshot 2024-08-14 171644](https://github.com/user-attachments/assets/2c641ec6-7756-46d6-af3e-2ca2e1403d05)
+
 
 ### Tasked Performed
 - Data Import: Loaded CSV file
