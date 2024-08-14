@@ -1,11 +1,11 @@
 # Tableau-Amazon-Sales-Project
 ## Table of Content
-- [Project Overview](project-overview)
-- [Tools Used](tools-used)
-- [Link to Tableau DashBoard](Link-to-tableau-dashBoard)
-- [Tasked Performed](tasked-performed)
-- [Summary of Findings](summary-of-findings)
-- [Data Sources](data-sources)
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Link to Tableau DashBoard](#Link-to-tableau-dashBoard)
+- [Tasked Performed](#tasked-performed)
+- [Summary of Findings](#summary-of-findings)
+- [Data Sources](#data-sources)
 
 
 ### Project Overview
